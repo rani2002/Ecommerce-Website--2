@@ -1,2 +1,3 @@
 # Ecommerce Website
- About It's basically a project on website showing different products their prices ,login signup page and cart and other various features
+ About It's basically a project on website showing different products their prices ,login signup page and cart and other various featuresusing Ract js
+ To run the project first open the terminal then type cd my-react-app and then npm start ..it will run in the particular server in the browser.In this website basically it consists of differents products for men women kids along with their prices sizes and description about it.It also consists of a loginsignup page and cart page where one can add or remove products and then it will show the total amount and then can procedd to checkout using the proceed to checkout button
